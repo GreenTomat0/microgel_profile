@@ -9,3 +9,4 @@ Preprocessing with ImageJ includes:
 </ul>
 
 2D and 3D density profiles were then calculated in Python
+Data files with "x, y (slice) color" are here --> https://drive.google.com/drive/folders/1OzDcylFHByDObs30-sLy-e9nZR6wJhIG?usp=sharing
